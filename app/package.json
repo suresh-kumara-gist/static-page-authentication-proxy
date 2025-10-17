@@ -1,0 +1,17 @@
+{
+  "name": "decap-github-oauth",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "*",
+    "dotenv": "*",
+    "express": "*",
+    "simple-oauth2": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  }
+}
