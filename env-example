@@ -2,4 +2,4 @@ GITHUB_CLIENT_ID=client-id
 GITHUB_CLIENT_SECRET=client-secret
 PORT=9050
 NODE_ENV=production
-GITHUB_REDIRECT_URI=http://<backend-url>/auth/callback
+GITHUB_REDIRECT_URI=http://<backend-url>/auth/github/callback
